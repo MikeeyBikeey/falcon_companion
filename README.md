@@ -1,5 +1,6 @@
 # Falcon Companion
-The College of Eastern Idaho's mascot, Franky the Falcon, flying through Google Chrome. ⚠️This project is in early development⚠️\
+The College of Eastern Idaho's mascot, Franky the Falcon, flying through Google Chrome.\
+⚠️This project is in early development⚠️\
 ![Falcon Companion Exploring Wikipedia](/media/falcon_companion.gif)\
 Summon the help of Franky to explore the web.
 
